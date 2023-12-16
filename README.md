@@ -1,2 +1,2 @@
-# DataSciency
+# Data Sciency
 data sciency 
