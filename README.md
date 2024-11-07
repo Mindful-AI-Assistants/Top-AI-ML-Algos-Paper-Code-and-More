@@ -1,6 +1,6 @@
 <br>
 
-#  <p align="center"> AI Data Science - Machone Learning Alghoritms
+#  <p align="center"> AI Data Science - Machine Learning Alghoritms
 
  <br>
 
