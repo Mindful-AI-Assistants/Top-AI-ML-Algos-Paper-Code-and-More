@@ -24,4 +24,4 @@
 
 #
 
-##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [Creative Commons License.]()
+##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [Creative Commons License.](https://github.com/Mindful-AI-Assistants/AI-DataSciency-ML/blob/ea04c03ca9997d0caa870ab185a353637cdec6db/LICENSE)
