@@ -1,4 +1,4 @@
-#  <p align="center"> AI Data Science
+#  <p align="center"> AI Data Science - Machone Learning Alghoritms
 
  <br>
 
