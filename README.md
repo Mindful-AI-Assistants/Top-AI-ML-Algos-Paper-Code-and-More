@@ -1,6 +1,6 @@
 <br>
 
-#  <p align="center"> AI Data Science - Top Machine Learning Algorithms!
+#  <p align="center"> 🌟 Machine Learning Top Models Overview 🌟!
 
  <br>
 
@@ -15,7 +15,7 @@
 
 
 
-## <p align="center"> 🌟 Machine Learning Models Overview 🌟
+
 
 
 
