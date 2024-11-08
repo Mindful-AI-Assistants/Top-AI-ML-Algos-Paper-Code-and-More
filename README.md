@@ -20,7 +20,7 @@
 
 
 
-## 🟢 1️⃣ **Linear Regression**
+##  1️⃣ **Linear Regression**
    - 📈 **Description**: Used for predicting continuous values.
    - 🔗 **How It Works**: Models the relationship between dependent and independent variables by fitting a linear equation to the data.
    - 💼 **Use Cases**: 
@@ -29,7 +29,7 @@
    - 📘 **Notebook Examples**:
       - [Simple Linear Regression Notebook](https://github.com/philipphundertmark/simple-linear-regression-notebook)
       - [Python Data Science Handbook - Linear Regression](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
-      - [Machine Learning with Python and Spark - Linear Regression](https://github.com/ruslanmv/Machine-Learning-with-Python-and-Spark/blob/master/Linear-Regression/Linear-Regression.ipynb)
+      - [Machine Learning with Python and Spark - Linear Regression](z)
 
 ### 🟢 2️⃣ **Logistic Regression**
    - ✅ **Description**: Ideal for binary classification problems.
