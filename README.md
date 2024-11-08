@@ -54,7 +54,7 @@
      - Predicting customer churn by combining different decision tree predictions.
      - Assessing loan default risk by using various decision paths.
    - 📘 **Notebook Example**:
-      - [Random Forest Classifier Example](https://github.com/krishnaik06/Random-Forest-Classifier/blob/master/Random%20Forest%20Classifier.ipynb)
+      - [Random Forest Classifier Example](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/dfd0da7f9f4d7aa942547278a8b48f2e8ec9904f/ML-Files/Linear%20Regression/Randon%20Forests)
 
 ### 🟢 5️⃣ **Support Vector Machines (SVM)**
    - 🚀 **Description**: Finds the hyperplane that best separates different classes.
