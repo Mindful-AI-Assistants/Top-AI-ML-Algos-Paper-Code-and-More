@@ -36,7 +36,7 @@
      - Determining if an email is spam or not.
      - Predicting if a customer will purchase based on their online behavior.
    - 📘 **Notebook Example**:
-      - [Logistic Regression Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/04_logistic_regression.ipynb)
+      - [Logistic Regression]([https://github.com/justmarkham/DAT8/blob/master/notebooks/04_logistic_regression.ipynb](https://github.com/ruslanmv/Machine-Learning-with-Python-and-Spark/blob/023c24e52aa87aaa9d6eb48c51836f0d0d967328/Logistic-Regression/Logistic-Regression.ipynb))
 
 ### 🟢 3️⃣ **Decision Trees**
    - 🌳 **Description**: Splits data into subsets based on the value of input features.
