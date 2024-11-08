@@ -45,7 +45,7 @@
      - Customer segmentation based on purchasing behavior.
      - Predicting loan approval decisions based on applicant details.
    - 📘 **Notebook Example**:
-      - [Decision Tree Classifier Example](https://github.com/krishnaik06/Decision-Tree-Classifier/blob/master/Decision%20Tree%20Classifier.ipynb)
+      - [Decision Tree Classifier](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/08ac3e7e0b8a6f2be262762e610008b95b4cc119/ML-Files/Linear%20Regression/Decision%20Trees)
 
 ### 🟢 4️⃣ **Random Forest**
    - 🌲 **Description**: An ensemble method using multiple decision trees.
