@@ -1,6 +1,6 @@
 <br>
 
-#  <p align="center"> 🌟 Machine Learning Top Models Overview 🌟!
+#  <p align="center"> 🌟 Machine Learning Top Models Overview 🌟
 <p align="center"> A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples.
 
  <br>
@@ -16,7 +16,7 @@
 
 
 
-![1734971037172 (1)](https://github.com/user-attachments/assets/f6747a16-e4de-4499-a391-7f042590cd3d)
+
 
 
 
