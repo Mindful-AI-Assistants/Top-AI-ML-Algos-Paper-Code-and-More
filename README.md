@@ -14,16 +14,7 @@
  <img src="https://github.com/user-attachments/assets/f6747a16-e4de-4499-a391-7f042590cd3d"  />
 </p>
 
-
-
-
-
-
-
-
-
-
-
+<br><br>
 
 ##  1️⃣ **Linear Regression**
    - 📈 **Description**: Used for predicting continuous values.
