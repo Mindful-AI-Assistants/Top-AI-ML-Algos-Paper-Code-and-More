@@ -119,7 +119,7 @@
 
 # II- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 
 
-https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e)
+https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e
 
 
 
