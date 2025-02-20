@@ -162,6 +162,11 @@ These libraries are fundamental for data visualization. They allow users to crea
 
 #
 
+## 4️⃣ 𝐒𝐜𝐢𝐤𝐢𝐭-𝐥𝐞𝐚𝐫𝐧:
+
+Ideal for machine learning tasks, Scikit-learn offers a range of algorithms and tools for data modeling, classification, regression, and clustering.
+
+#
 
 
 
