@@ -174,6 +174,13 @@ These frameworks are essential for deep learning applications. They provide tool
 
 #
 
+## 6️⃣ 𝐒𝐭𝐚𝐭𝐬𝐦𝐨𝐝𝐞𝐥𝐬: 
+
+This library is invaluable for statistical modeling and analysis. It offers a wide range of statistical tests and models for hypothesis testing and regression analysis.
+
+#
+
+
 
 
 
