@@ -106,11 +106,11 @@
    - 📘 **Notebook Example**:
       - [Gradient Boosting Example](https://github.com/dmlc/xgboost/blob/master/demo/jupyter/xgboost_demo.ipynb)
 
----
+
 
 📘 Each of these models has its strengths and ideal applications. Choosing the right model depends on the data and task requirements!
 
----
+
 
 ### 🔗 **References**
 - [Simple Linear Regression Notebook](https://github.com/philipphundertmark/simple-linear-regression-notebook)
