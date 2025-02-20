@@ -150,6 +150,14 @@ This library is essential for data manipulation and exploration. It provides eff
 
 #
 
+## 2️⃣ 𝐍𝐮𝐦𝐏𝐲:
+
+Widely used for numerical computing, NumPy facilitates operations on large arrays and matrices, offering essential mathematical functions.
+
+#
+
+
+
 
 ## 🔗 **References**
 
