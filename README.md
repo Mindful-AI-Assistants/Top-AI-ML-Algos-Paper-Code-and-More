@@ -156,6 +156,13 @@ Widely used for numerical computing, NumPy facilitates operations on large array
 
 #
 
+## 3️⃣ 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛 & 𝐒𝐞𝐚𝐛𝐨𝐫𝐧:
+
+These libraries are fundamental for data visualization. They allow users to create various types of plots and graphs to represent data visually.
+
+#
+
+
 
 
 
