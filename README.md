@@ -168,6 +168,13 @@ Ideal for machine learning tasks, Scikit-learn offers a range of algorithms and 
 
 #
 
+##5️⃣ 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 & 𝐏𝐲𝐓𝐨𝐫𝐜𝐡: 
+
+These frameworks are essential for deep learning applications. They provide tools for building and training neural networks, enabling advanced machine learning tasks.
+
+#
+
+
 
 
 
