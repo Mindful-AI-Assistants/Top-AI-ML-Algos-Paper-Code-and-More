@@ -28,6 +28,8 @@
      - Forecasting sales revenue from marketing spend.
    - 📘 **Notebook Examples**:
       - [Machine Learning - Linear Regression - Nsive Bayes](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/blob/560ed3af4be2ab8d6a08da4c506c349a48f57293/ML-Files/Linear%20Regression/Linear-Regression%20copy.ipynb)
+    
+#
 
 ### 🟢 2️⃣ **Logistic Regression**
    - ✅ **Description**: Ideal for binary classification problems.
@@ -37,6 +39,8 @@
      - Predicting if a customer will purchase based on their online behavior.
    - 📘 **Notebook Example**:
       - [Logistic Regression](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/7c55f48770c20417a17a9f347f2efeebd61ab415/ML-Files/Linear%20Regression/Logistic%20Regression)
+    
+ #
         
 ### 🟢 3️⃣ **Decision Trees**
    - 🌳 **Description**: Splits data into subsets based on the value of input features.
