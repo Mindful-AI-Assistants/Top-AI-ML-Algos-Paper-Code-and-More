@@ -127,8 +127,8 @@
 
 <br><br>
 
+## 🔗 **References**
 
-### 🔗 **References**
 - [Simple Linear Regression Notebook](https://github.com/philipphundertmark/simple-linear-regression-notebook)
 - [Python Data Science Handbook - Linear Regression](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
 - [Machine Learning with Python and Spark - Linear Regression](https://github.com/ruslanmv/Machine-Learning-with-Python-and-Spark/blob/master/Linear-Regression/Linear-Regression.ipynb)
