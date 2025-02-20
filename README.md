@@ -16,11 +16,11 @@
 
 <br><br>
 
-# I - [Machinw Learning Top Models Overview]()
+## I - [Machinw Learning Top Models Overview]()
 
 <br>
 
-##  1️⃣ **Linear Regression**
+###  1️⃣ **Linear Regression**
    - 📈 **Description**: Used for predicting continuous values.
    - 🔗 **How It Works**: Models the relationship between dependent and independent variables by fitting a linear equation to the data.
    - 💼 **Use Cases**: 
