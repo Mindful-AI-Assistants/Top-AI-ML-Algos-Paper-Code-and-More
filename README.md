@@ -1,6 +1,6 @@
 <br>
 
-#  <p align="center"> 🌟 Machine Learning Top Models Overview and  🌟
+#  <p align="center"> 🌟 Machine Learning Top Models Overview and 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 🌟
 <p align="center"> A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples.
 
  <br>
@@ -117,7 +117,7 @@
 
 <br><br>
 
-# II- 
+# II- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 
 
 https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e)
 
