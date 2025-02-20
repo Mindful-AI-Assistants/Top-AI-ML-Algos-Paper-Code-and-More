@@ -116,6 +116,12 @@
 
 
 
+--
+
+https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e)
+
+
+
 ### 🔗 **References**
 - [Simple Linear Regression Notebook](https://github.com/philipphundertmark/simple-linear-regression-notebook)
 - [Python Data Science Handbook - Linear Regression](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
