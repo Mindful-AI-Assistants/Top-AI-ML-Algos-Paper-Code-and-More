@@ -50,6 +50,8 @@
      - Predicting loan approval decisions based on applicant details.
    - 📘 **Notebook Example**:
       - [Decision Tree Classifier](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/08ac3e7e0b8a6f2be262762e610008b95b4cc119/ML-Files/Linear%20Regression/Decision%20Trees)
+    
+     #
 
 ### 🟢 4️⃣ **Random Forest**
    - 🌲 **Description**: An ensemble method using multiple decision trees.
@@ -60,6 +62,8 @@
    - 📘 **Notebook Example**:
       - [Random Forest Classifier Example](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/dfd0da7f9f4d7aa942547278a8b48f2e8ec9904f/ML-Files/Linear%20Regression/Randon%20Forests)
 
+#
+
 ### 🟢 5️⃣ **Support Vector Machines (SVM)**
    - 🚀 **Description**: Finds the hyperplane that best separates different classes.
    - 📈 **Advantage**: Effective in high-dimensional spaces and well-suited for classification tasks.
@@ -68,6 +72,8 @@
      - Identifying cancerous tumors based on medical imaging data.
    - 📘 **Notebook Example**:
       - [SVM Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/05_support_vector_machines.ipynb)
+    
+        #
 
 ### 🟢 6️⃣ **k-Nearest Neighbors (k-NN)**
    - 🤝 **Description**: Classifies data based on the majority class among the k-nearest neighbors.
@@ -78,6 +84,8 @@
    - 📘 **Notebook Example**:
       - [k-NN Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/03_knn.ipynb)
 
+#
+
 ### 🟢 7️⃣ **K-Means Clustering**
    - 🔍 **Description**: Partitions data into k clusters based on feature similarity.
    - 💡 **Applications**: Useful for market segmentation, image compression, and more.
@@ -86,6 +94,8 @@
      - Compression of large image files by clustering similar pixels.
    - 📘 **Notebook Example**:
       - [K-Means Clustering Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/06_kmeans_clustering.ipynb)
+    
+        #
 
 ### 🟢 8️⃣ **Naive Bayes**
    - 📧 **Description**: Based on Bayes' theorem with an assumption of independence among predictors.
@@ -96,6 +106,8 @@
    - 📘 **Notebook Example**:
       - [Naive Bayes Classifier Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/04_naive_bayes.ipynb)
 
+#
+
 ### 🟢 9️⃣ **Neural Networks**
    - 🧠 **Description**: Mimic the human brain to identify patterns in data.
    - 🌐 **Applications**: Power deep learning applications, from image recognition to natural language processing.
@@ -104,6 +116,8 @@
      - Language translation (e.g., English to Spanish translation).
    - 📘 **Notebook Example**:
       - [Neural Networks with Keras Example](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/4.3-using-a-pre-trained-model.ipynb)
+    
+   #
 
 ### 🟢 🔟 **Gradient Boosting Machines (GBM)**
    - 🔥 **Description**: Combines weak learners to create a strong predictive model.
@@ -116,7 +130,7 @@
 
 
 
-📘 Each of these models has its strengths and ideal applications. Choosing the right model depends on the data and task requirements!
+### 📘 Each of these models has its strengths and ideal applications. Choosing the right model depends on the data and task requirements!
 
 
 <br><br>
