@@ -180,7 +180,11 @@ This library is invaluable for statistical modeling and analysis. It offers a wi
 
 #
 
+## 7️⃣ 𝐃𝐚𝐬𝐤:
 
+Useful for parallel computing and handling large datasets, Dask enables users to work with data that exceeds the memory capacity of their systems.
+
+#
 
 
 
