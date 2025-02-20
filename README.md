@@ -124,8 +124,14 @@
 <p align="center">
  <img src="https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e" />
  
-
 <br><br>
+
+### 1️⃣ 𝐏𝐚𝐧𝐝𝐚𝐬: 
+
+This library is essential for data manipulation and exploration. It provides efficient data structures and functions to work with structured data.
+
+#
+
 
 ## 🔗 **References**
 
