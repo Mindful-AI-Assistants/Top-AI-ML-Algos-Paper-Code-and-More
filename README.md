@@ -16,7 +16,6 @@
 
 
 
-![1734971037172 (1)](https://github.com/user-attachments/assets/f6747a16-e4de-4499-a391-7f042590cd3d)
 
 
 
