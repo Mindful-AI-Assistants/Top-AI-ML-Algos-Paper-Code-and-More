@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Mindful AI Assistants
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Top-AI-ML-Algos-Paper-Code-and-More
+repository-code: https://github.com/Mindful-AI-Assistants/Top-AI-ML-Algos-Paper-Code-and-More
+license: MIT License
+
