@@ -1,3 +1,4 @@
+
 version: 2  
 updates:  
 
@@ -5,7 +6,7 @@ updates:
   - package-ecosystem: "pip"  # Usa pip para gerenciar dependências  
     directory: "/"              # Diretório do projeto  
     schedule:  
-      interval: "weekly"        # Atualiza semanalmente  
+      interval: "daiky"        # Atualiza semanalmente  
     commit-message:  
       prefix: "fix"             # Prefixo da mensagem de commit  
       
