@@ -1,12 +1,12 @@
-
 version: 2  
+
 updates:  
 
   # Configuração para dependências de Python (requirements.txt)  
   - package-ecosystem: "pip"  # Usa pip para gerenciar dependências  
     directory: "/"              # Diretório do projeto  
     schedule:  
-      interval: "daiky"        # Atualiza semanalmente  
+      interval: "weekly"        # Atualiza semanalmente  
     commit-message:  
       prefix: "fix"             # Prefixo da mensagem de commit  
       
