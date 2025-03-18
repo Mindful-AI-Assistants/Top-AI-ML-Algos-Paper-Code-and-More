@@ -1,0 +1,22 @@
+version: 2
+updates:
+- package-ecosystem: nuget
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+- package-ecosystem: npm
+  directory: "/Web"
+  schedule:
+    interval: daily
+    time: "13:00"
+- package-ecosystem: docker
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
