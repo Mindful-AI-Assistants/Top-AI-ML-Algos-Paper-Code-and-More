@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/5d0d43f1-c7e5-4555-b581-0dc8fb5bcdc0" />
+ <img src="https://github.com/user-attachments/assets/5d0d43f1-c7e5-4555-b581-0dc8fb5bcdc0" width="400" />
 </p>
 
 <br>
@@ -23,10 +23,10 @@
 
 <br><br>
 
-
 <p align="center">
- <img src="https://github.com/user-attachments/assets/f6747a16-e4de-4499-a391-7f042590cd3d"  />
+ <img src="https://github.com/user-attachments/assets/f6747a16-e4de-4499-a391-7f042590cd3d" width="400" />
 </p>
+
 
 <br><br>
 
