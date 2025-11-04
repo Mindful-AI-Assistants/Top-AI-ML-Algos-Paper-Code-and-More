@@ -24,40 +24,44 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 <br><br>
 
 
-###  1️⃣ **Linear Regression**
-   - 📈 **Description**: Used for predicting continuous values.
-   - 🔗 **How It Works**: Models the relationship between dependent and independent variables by fitting a linear equation to the data.
-   - 💼 **Use Cases**: 
+###   1. **Linear Regression**
+
+   -  **Description**: Used for predicting continuous values.
+   -  **How It Works**: Models the relationship between dependent and independent variables by fitting a linear equation to the data.
+   -  **Use Cases**: 
      - Predicting house prices based on features like square footage, number of bedrooms, and neighborhood.
      - Forecasting sales revenue from marketing spend.
-   - 📘 **Notebook Examples**:
+   -  **Notebook Examples**:
       - [Machine Learning - Linear Regression - Nsive Bayes](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/blob/560ed3af4be2ab8d6a08da4c506c349a48f57293/ML-Files/Linear%20Regression/Linear-Regression%20copy.ipynb)
     
 #
 
-### 🟢 2️⃣ **Logistic Regression**
-   - ✅ **Description**: Ideal for binary classification problems.
-   - 📊 **How It Works**: Estimates the probability that an instance belongs to a particular class.
-   - 💼 **Use Cases**: 
+### 2. **Logistic Regression**
+
+   -  **Description**: Ideal for binary classification problems.
+   -  **How It Works**: Estimates the probability that an instance belongs to a particular class.
+   -  **Use Cases**: 
      - Determining if an email is spam or not.
      - Predicting if a customer will purchase based on their online behavior.
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [Logistic Regression](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/7c55f48770c20417a17a9f347f2efeebd61ab415/ML-Files/Linear%20Regression/Logistic%20Regression)
     
  #
         
-### 🟢 3️⃣ **Decision Trees**
-   - 🌳 **Description**: Splits data into subsets based on the value of input features.
-   - 👁️ **Advantage**: Easy to visualize and interpret, but can be prone to overfitting.
-   - 💼 **Use Cases**: 
+###  3. **Decision Trees**
+
+   -  **Description**: Splits data into subsets based on the value of input features.
+   -  **Advantage**: Easy to visualize and interpret, but can be prone to overfitting.
+   -  **Use Cases**: 
      - Customer segmentation based on purchasing behavior.
      - Predicting loan approval decisions based on applicant details.
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [Decision Tree Classifier](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/08ac3e7e0b8a6f2be262762e610008b95b4cc119/ML-Files/Linear%20Regression/Decision%20Trees)
     
      #
 
-### 🟢 4️⃣ **Random Forest**
+### 4. **Random Forest**
+
    - 🌲 **Description**: An ensemble method using multiple decision trees.
    - 🎯 **Benefit**: Reduces overfitting and improves accuracy by averaging multiple trees.
    - 💼 **Use Cases**: 
@@ -68,7 +72,8 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 #
 
-### 🟢 5️⃣ **Support Vector Machines (SVM)**
+### 5. **Support Vector Machines (SVM)**
+
    - 🚀 **Description**: Finds the hyperplane that best separates different classes.
    - 📈 **Advantage**: Effective in high-dimensional spaces and well-suited for classification tasks.
    - 💼 **Use Cases**: 
@@ -79,7 +84,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
         #
 
-### 🟢 6️⃣ **k-Nearest Neighbors (k-NN)**
+### 6. **k-Nearest Neighbors (k-NN)**
    - 🤝 **Description**: Classifies data based on the majority class among the k-nearest neighbors.
    - 🧩 **Note**: Simple and intuitive, but can be computationally intensive.
    - 💼 **Use Cases**: 
@@ -90,7 +95,8 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 #
 
-### 🟢 7️⃣ **K-Means Clustering**
+### 7. **K-Means Clustering**
+
    - 🔍 **Description**: Partitions data into k clusters based on feature similarity.
    - 💡 **Applications**: Useful for market segmentation, image compression, and more.
    - 💼 **Use Cases**: 
@@ -101,7 +107,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
         #
 
-### 🟢 8️⃣ **Naive Bayes**
+### 8. **Naive Bayes**
    - 📧 **Description**: Based on Bayes' theorem with an assumption of independence among predictors.
    - 📬 **Common Uses**: Particularly useful for text classification and spam filtering.
    - 💼 **Use Cases**: 
@@ -112,7 +118,8 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 #
 
-### 🟢 9️⃣ **Neural Networks**
+### 9. **Neural Networks**
+
    - 🧠 **Description**: Mimic the human brain to identify patterns in data.
    - 🌐 **Applications**: Power deep learning applications, from image recognition to natural language processing.
    - 💼 **Use Cases**: 
@@ -123,13 +130,14 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
    #
 
-### 🟢 🔟 **Gradient Boosting Machines (GBM)**
-   - 🔥 **Description**: Combines weak learners to create a strong predictive model.
-   - 🏆 **Applications**: Used in various applications like ranking, classification, and regression.
-   - 💼 **Use Cases**: 
+### 3. 🕯️ **Gradient Boosting Machines (GBM)**
+
+   -  **Description**: Combines weak learners to create a strong predictive model.
+   -  **Applications**: Used in various applications like ranking, classification, and regression.
+   -  **Use Cases**: 
      - Predicting customer propensity to buy in e-commerce.
      - Ranking relevant search results based on past behavior.
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [Gradient Boosting Example](https://github.com/dmlc/xgboost/blob/master/demo/jupyter/xgboost_demo.ipynb)
 
 
@@ -139,7 +147,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 <br><br>
 
-## II- [𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]()
+## II- 🪬 [𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]()
 
 <br><br>
 
@@ -218,7 +226,7 @@ These libraries are crucial for creating interactive visualizations and dashboar
 <br><br>
 
 
-## 🔗 **References**
+## 🔱 **References**
 
 - [Simple Linear Regression Notebook](https://github.com/philipphundertmark/simple-linear-regression-notebook)
 - [Python Data Science Handbook - Linear Regression](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
