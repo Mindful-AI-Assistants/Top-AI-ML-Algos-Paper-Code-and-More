@@ -1,6 +1,6 @@
 <br>
 
-##  <p align="center">  ૐ ✨ []() ✨
+##  <p align="center">  ૐ ✨ [Digital Mantra — Dancing with Data, Machine Learning Top Models & Python Libraries for a Flow State]() ✨
 #### <p align="center">˖   ≽༏≼ A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples. ✶˳·˖✶ZΞΝ✦˚༉༉‧₊˚
 
  <br><br>
