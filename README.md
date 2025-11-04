@@ -3,20 +3,25 @@
 ##  <p align="center">  ૐ ✨ [Machine Learning Top Models Overview and 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]() ✨
 #### <p align="center">˖   ≽༏≼ A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples. ✶˳·˖✶ZΞΝ✦˚༉༉‧₊˚
 
+ <br><br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
 
 
  <br><br>
 
 https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
+<br>
+
+<p align="center">  𓂃˖˳··🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖ ִֶָ🍄⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖ ִֶָ🍄⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˳𓂃🦋˖𓂃🦋 ִֶָ
+
 
 <br><br>
 
   
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
- <br><br>
 
 ## I -   🪷· [Machine Learning Top Models Overview]()
 
