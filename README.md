@@ -137,7 +137,9 @@
 <br><br>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e" />
+  <img src="https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e" width="30%" />
+</p>
+
  
 <br><br>
 
