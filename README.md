@@ -1,7 +1,7 @@
 <br><br>
 
 ##  <p align="center">  ૐ ✨ [Digital Mantra — Dancing with Data, Machine Learning Top Models & Python Libraries for a Flow State]() ✨
-#### <p align="center">˖  🦋 ˖𓂃 A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples. ✶˳·˖✶ZΞΝ✦˚༉༉‧
+#### <p align="center">˖  🦋 ˖𓂃 A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples. ˳˖𓂃🦋ִֶָ
 
  <br><br>
 
@@ -12,7 +12,7 @@
  <br><br>
  
 
-<p align="center">  🦋 ˖𓂃 🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˳˳··🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖ ִֶָ🍄⋆˳·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷𓍢·🌹˖˳
+<p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ ✶˳·˖✶ZΞΝ✦⋆🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳˳··🎀˳⋆ ִֶָ🌺 ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖ ִֶָ🍄⋆˳·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷𓍢·🌹˖˳
 
  <!--
 ˖ 🌸˖ ִֶָ🦩🌷𓍢˖·🌹
