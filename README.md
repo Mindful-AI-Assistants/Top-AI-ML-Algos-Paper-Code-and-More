@@ -172,7 +172,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88bdbd5f-debd-4c98-8f37-2c4ac6a81e2e" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
 </p>
 
  
