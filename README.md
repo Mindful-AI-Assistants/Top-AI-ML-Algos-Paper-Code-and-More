@@ -168,6 +168,14 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 ### 📘 Each of these models has its strengths and ideal applications. Choosing the right model depends on the data and task requirements!
 
+<br><br>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
+</p>
+
+
 
 <br><br>
 
@@ -175,12 +183,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 <br><br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ef82854-830a-4016-92d3-3d1bdb97edeb" />
-</p>
 
- 
-<br><br>
 
 ### 1️⃣ 𝐏𝐚𝐧𝐝𝐚𝐬: 
 
