@@ -186,10 +186,10 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
 
 
-<br><br><br>
+<br><br><br><br>
 
 
-## II-  [𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]() 🪬
+## II-  [𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]() 🧘‍♀️
 
 <br><br>
 
@@ -263,7 +263,7 @@ These libraries are crucial for creating interactive visualizations and dashboar
 <br><br>
 
 
-## 🔱 **References**
+##  **References** 🔱
 
 - [Simple Linear Regression Notebook](https://github.com/philipphundertmark/simple-linear-regression-notebook)
 - [Python Data Science Handbook - Linear Regression](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
