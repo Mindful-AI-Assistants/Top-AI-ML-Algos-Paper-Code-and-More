@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
   
 
 
-##  🪷  I -   [Machine Learning Top Models Overview]()
+##    I-  [Machine Learning Top Models Overview]() 🪷
 
 
 <br><br>
@@ -86,24 +86,24 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 ### 4. **Random Forest**
 
-   - 🌲 **Description**: An ensemble method using multiple decision trees.
-   - 🎯 **Benefit**: Reduces overfitting and improves accuracy by averaging multiple trees.
-   - 💼 **Use Cases**: 
+   -  **Description**: An ensemble method using multiple decision trees.
+   -  **Benefit**: Reduces overfitting and improves accuracy by averaging multiple trees.
+   -  **Use Cases**: 
      - Predicting customer churn by combining different decision tree predictions.
      - Assessing loan default risk by using various decision paths.
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [Random Forest Classifier Example](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/dfd0da7f9f4d7aa942547278a8b48f2e8ec9904f/ML-Files/Linear%20Regression/Randon%20Forests)
 
 #
 
 ### 5. **Support Vector Machines (SVM)**
 
-   - 🚀 **Description**: Finds the hyperplane that best separates different classes.
-   - 📈 **Advantage**: Effective in high-dimensional spaces and well-suited for classification tasks.
-   - 💼 **Use Cases**: 
+   -  **Description**: Finds the hyperplane that best separates different classes.
+   -  **Advantage**: Effective in high-dimensional spaces and well-suited for classification tasks.
+   -  **Use Cases**: 
      - Image classification, such as distinguishing between cats and dogs.
      - Identifying cancerous tumors based on medical imaging data.
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [SVM Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/05_support_vector_machines.ipynb)
     
         #
@@ -154,7 +154,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
    #
 
-### 3. 🕯️ **Gradient Boosting Machines (GBM)**
+### 3.  **Gradient Boosting Machines (GBM)**
 
    -  **Description**: Combines weak learners to create a strong predictive model.
    -  **Applications**: Used in various applications like ranking, classification, and regression.
@@ -186,7 +186,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 <br><br>><br>
 
 
-## II- 🪬 [𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]()
+## II-  [𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]() 🪬
 
 <br><br>
 
