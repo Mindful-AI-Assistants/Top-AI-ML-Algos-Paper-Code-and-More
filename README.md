@@ -195,49 +195,49 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 
 
-### 1️⃣ 𝐏𝐚𝐧𝐝𝐚𝐬: 
+### 1. 𝐏𝐚𝐧𝐝𝐚𝐬: 
 
 This library is essential for data manipulation and exploration. It provides efficient data structures and functions to work with structured data.
 
 #
 
-## 2️⃣ 𝐍𝐮𝐦𝐏𝐲:
+## 2️. 𝐍𝐮𝐦𝐏𝐲:
 
 Widely used for numerical computing, NumPy facilitates operations on large arrays and matrices, offering essential mathematical functions.
 
 #
 
-## 3️⃣ 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛 & 𝐒𝐞𝐚𝐛𝐨𝐫𝐧:
+## 3️3. 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛 & 𝐒𝐞𝐚𝐛𝐨𝐫𝐧:
 
 These libraries are fundamental for data visualization. They allow users to create various types of plots and graphs to represent data visually.
 
 #
 
-## 4️⃣ 𝐒𝐜𝐢𝐤𝐢𝐭-𝐥𝐞𝐚𝐫𝐧:
+## 4️. 𝐒𝐜𝐢𝐤𝐢𝐭-𝐥𝐞𝐚𝐫𝐧:
 
 Ideal for machine learning tasks, Scikit-learn offers a range of algorithms and tools for data modeling, classification, regression, and clustering.
 
 #
 
-##5️⃣ 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 & 𝐏𝐲𝐓𝐨𝐫𝐜𝐡: 
+## 5️. 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 & 𝐏𝐲𝐓𝐨𝐫𝐜𝐡: 
 
 These frameworks are essential for deep learning applications. They provide tools for building and training neural networks, enabling advanced machine learning tasks.
 
 #
 
-## 6️⃣ 𝐒𝐭𝐚𝐭𝐬𝐦𝐨𝐝𝐞𝐥𝐬: 
+## 6️. 𝐒𝐭𝐚𝐭𝐬𝐦𝐨𝐝𝐞𝐥𝐬: 
 
 This library is invaluable for statistical modeling and analysis. It offers a wide range of statistical tests and models for hypothesis testing and regression analysis.
 
 #
 
-## 7️⃣ 𝐃𝐚𝐬𝐤:
+## 7️. 𝐃𝐚𝐬𝐤:
 
 Useful for parallel computing and handling large datasets, Dask enables users to work with data that exceeds the memory capacity of their systems.
 
 #
 
-## 8️⃣ 𝐁𝐨𝐤𝐞𝐡 & 𝐏𝐥𝐨𝐭𝐥𝐲: 
+## 8️. 𝐁𝐨𝐤𝐞𝐡 & 𝐏𝐥𝐨𝐭𝐥𝐲: 
 
 These libraries are crucial for creating interactive visualizations and dashboards, and enhancing data exploration and presentation.
 
