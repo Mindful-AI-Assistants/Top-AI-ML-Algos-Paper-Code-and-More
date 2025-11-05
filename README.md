@@ -5,7 +5,7 @@
 
 
 
- <br><br> <br><br>
+ <br><br> br><br><br><br>
 
   <!--
 ˖ 🌸˖ ִֶָ🦩🌷𓍢˖·🌹˳·🦩˖ ִֶָ🍄⋆˳··🎀˳⋆ ִֶָ🌺˳·🌹
@@ -15,7 +15,7 @@
 
 <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷 ִֶָ🌺˳·🌹
 
-<br>
+<br><br>
 
 https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
@@ -30,7 +30,8 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 
 
- <br><br><br><br>
+ <br><br><br><br><br>
+
 
 #### <p align="center">  [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)  ˖𓂃 ≽༏≼
 
