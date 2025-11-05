@@ -3,10 +3,6 @@
 ##  <p align="center">  ૐ ✨ [Digital Mantra — Dancing with Data, Machine Learning Top Models & Python Libraries for a Flow State]() ✨
 #### <p align="center">˖  🦋 ˖𓂃 A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples. ˳˖𓂃🦋ִֶָ
 
- <br><br>
-
-#### <p align="center">  ≽༏≼ [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
 
 
  <br><br>
@@ -37,7 +33,13 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 
 
-<br><br>
+ <br><br<br>
+
+#### <p align="center">  ≽༏≼ [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+
+<br><br><br>
 
   
 
