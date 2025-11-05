@@ -81,7 +81,9 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
    -  **Notebook Example**:
       - [Decision Tree Classifier](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/08ac3e7e0b8a6f2be262762e610008b95b4cc119/ML-Files/Linear%20Regression/Decision%20Trees)
     
-     #
+
+
+   #
 
 ### 4. **Random Forest**
 
@@ -94,6 +96,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
       - [Random Forest Classifier Example](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/dfd0da7f9f4d7aa942547278a8b48f2e8ec9904f/ML-Files/Linear%20Regression/Randon%20Forests)
 
 #
+
 
 ### 5. **Support Vector Machines (SVM)**
 
@@ -153,7 +156,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
    #
 
-### 3.  **Gradient Boosting Machines (GBM)**
+### 10.  **Gradient Boosting Machines (GBM)**
 
    -  **Description**: Combines weak learners to create a strong predictive model.
    -  **Applications**: Used in various applications like ranking, classification, and regression.
