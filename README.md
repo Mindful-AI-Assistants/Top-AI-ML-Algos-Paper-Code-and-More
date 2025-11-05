@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 
 
- <br><br><br>><br>
+ <br><br><br><br>
 
 #### <p align="center">  [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)  ˖𓂃 ≽༏≼
 
@@ -109,47 +109,47 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
         #
 
 ### 6. **k-Nearest Neighbors (k-NN)**
-   - 🤝 **Description**: Classifies data based on the majority class among the k-nearest neighbors.
-   - 🧩 **Note**: Simple and intuitive, but can be computationally intensive.
-   - 💼 **Use Cases**: 
+   -  **Description**: Classifies data based on the majority class among the k-nearest neighbors.
+   -  **Note**: Simple and intuitive, but can be computationally intensive.
+   -  **Use Cases**: 
      - Recommending products based on user similarity.
      - Identifying handwritten digits in image data.
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [k-NN Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/03_knn.ipynb)
 
 #
 
 ### 7. **K-Means Clustering**
 
-   - 🔍 **Description**: Partitions data into k clusters based on feature similarity.
-   - 💡 **Applications**: Useful for market segmentation, image compression, and more.
-   - 💼 **Use Cases**: 
+   -  **Description**: Partitions data into k clusters based on feature similarity.
+   -  **Applications**: Useful for market segmentation, image compression, and more.
+   -  **Use Cases**: 
      - Customer segmentation for targeted marketing.
      - Compression of large image files by clustering similar pixels.
-   - 📘 **Notebook Example**:
+   - **Notebook Example**:
       - [K-Means Clustering Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/06_kmeans_clustering.ipynb)
     
         #
 
 ### 8. **Naive Bayes**
    - 📧 **Description**: Based on Bayes' theorem with an assumption of independence among predictors.
-   - 📬 **Common Uses**: Particularly useful for text classification and spam filtering.
-   - 💼 **Use Cases**: 
+   -  **Common Uses**: Particularly useful for text classification and spam filtering.
+   -  **Use Cases**: 
      - Email spam detection.
      - Sentiment analysis on customer reviews.
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [Naive Bayes Classifier Example](https://github.com/justmarkham/DAT8/blob/master/notebooks/04_naive_bayes.ipynb)
 
 #
 
 ### 9. **Neural Networks**
 
-   - 🧠 **Description**: Mimic the human brain to identify patterns in data.
-   - 🌐 **Applications**: Power deep learning applications, from image recognition to natural language processing.
-   - 💼 **Use Cases**: 
+   -  **Description**: Mimic the human brain to identify patterns in data.
+   -  **Applications**: Power deep learning applications, from image recognition to natural language processing.
+   -  **Use Cases**: 
      - Object detection in images (e.g., autonomous driving).
      - Language translation (e.g., English to Spanish translation).
-   - 📘 **Notebook Example**:
+   -  **Notebook Example**:
       - [Neural Networks with Keras Example](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/4.3-using-a-pre-trained-model.ipynb)
     
    #
@@ -166,7 +166,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 
 
-### 📘 Each of these models has its strengths and ideal applications. Choosing the right model depends on the data and task requirements!
+>  Each of these models has its strengths and ideal applications. Choosing the right model depends on the data and task requirements!
 
 
 
