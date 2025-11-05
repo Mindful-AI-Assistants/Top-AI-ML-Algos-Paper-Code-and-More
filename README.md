@@ -186,7 +186,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
 
 
-<br><br>><br>
+<br><br><br>
 
 
 ## II-  [𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐔𝐬𝐞𝐝 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬]() 🪬
@@ -281,20 +281,36 @@ These libraries are crucial for creating interactive visualizations and dashboar
 
 
 
+<br><br>
 
 
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br>
 
 
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
 
 
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
+<br><br>
 
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
 
- <br><br>
- 
-<p align="center"> <a href="#Top">Back to top</a>
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
 
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
+
+  
 #
-
-##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [Creative Commons License.](https://github.com/Mindful-AI-Assistants/AI-DataSciency-ML/blob/ea04c03ca9997d0caa870ab185a353637cdec6db/LICENSE)
+ 
+##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
