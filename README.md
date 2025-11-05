@@ -20,9 +20,7 @@
 
 https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
-<br>
-
-<br>
+<br><br>
 
 <p align="center">  🍄⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳˳··🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖ ִֶָ🍄⋆˳·🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳· ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˳˖𓂃🦋 ִֶָ
 
@@ -35,7 +33,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
  <br><br<br>
 
-#### <p align="center">  ≽༏≼ [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+#### <p align="center">  [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)  ˖𓂃 ≽༏≼
 
 
 
