@@ -55,13 +55,13 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 
 
-##    I-  [Machine Learning Top Models Overview]() 🪷
+##    I -  [Machine Learning Top Models Overview]() 🪷
 
 
 <br><br>
 
 
-###   1. **Linear Regression**
+###  🌸 1. **Linear Regression**
 
    -  **Description**: Used for predicting continuous values.
    -  **How It Works**: Models the relationship between dependent and independent variables by fitting a linear equation to the data.
@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
 #
 
-### 2. **Logistic Regression**
+### 🌷 2. **Logistic Regression**
 
    -  **Description**: Ideal for binary classification problems.
    -  **How It Works**: Estimates the probability that an instance belongs to a particular class.
@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
  #
         
-###  3. **Decision Trees**
+###   ִֶָ🌺 3. **Decision Trees**
 
    -  **Description**: Splits data into subsets based on the value of input features.
    -  **Advantage**: Easy to visualize and interpret, but can be prone to overfitting.
@@ -96,10 +96,9 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
       - [Decision Tree Classifier](https://github.com/Mindful-AI-Assistants/Top-ML-Algorithms/tree/08ac3e7e0b8a6f2be262762e610008b95b4cc119/ML-Files/Linear%20Regression/Decision%20Trees)
     
 
-
    #
 
-### 4. **Random Forest**
+### 🌹 4. **Random Forest**
 
    -  **Description**: An ensemble method using multiple decision trees.
    -  **Benefit**: Reduces overfitting and improves accuracy by averaging multiple trees.
@@ -112,7 +111,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 #
 
 
-### 5. **Support Vector Machines (SVM)**
+###  🍄 5. **Support Vector Machines (SVM)**
 
    -  **Description**: Finds the hyperplane that best separates different classes.
    -  **Advantage**: Effective in high-dimensional spaces and well-suited for classification tasks.
@@ -124,7 +123,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
         #
 
-### 6. **k-Nearest Neighbors (k-NN)**
+### ·🎀˳ 6. **k-Nearest Neighbors (k-NN)**
    -  **Description**: Classifies data based on the majority class among the k-nearest neighbors.
    -  **Note**: Simple and intuitive, but can be computationally intensive.
    -  **Use Cases**: 
@@ -135,7 +134,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 #
 
-### 7. **K-Means Clustering**
+### 7. 🦩 **K-Means Clustering**
 
    -  **Description**: Partitions data into k clusters based on feature similarity.
    -  **Applications**: Useful for market segmentation, image compression, and more.
@@ -147,8 +146,9 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
         #
 
-### 8. **Naive Bayes**
-   - 📧 **Description**: Based on Bayes' theorem with an assumption of independence among predictors.
+### 🪷 8. **Naive Bayes**
+
+   -  **Description**: Based on Bayes' theorem with an assumption of independence among predictors.
    -  **Common Uses**: Particularly useful for text classification and spam filtering.
    -  **Use Cases**: 
      - Email spam detection.
@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 #
 
-### 9. **Neural Networks**
+### 🌺 ִֶ 9. **Neural Networks**
 
    -  **Description**: Mimic the human brain to identify patterns in data.
    -  **Applications**: Power deep learning applications, from image recognition to natural language processing.
@@ -170,7 +170,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
    #
 
-### 10.  **Gradient Boosting Machines (GBM)**
+### 🌹˖ 10.  **Gradient Boosting Machines (GBM)**
 
    -  **Description**: Combines weak learners to create a strong predictive model.
    -  **Applications**: Used in various applications like ranking, classification, and regression.
