@@ -1,6 +1,6 @@
 <br><br><br>
 
-##  <p align="center">   [Digital Mantra]()  ૐ [Dancing with Data](), Machine Learning Top Models & Python Libraries [***for a Flow State]***()  ˖𓂃🦋ִֶָ
+##  <p align="center">   [Digital Mantra]() ˖⋆˳ ૐ ˖⋆  [Dancing with Data](), Machine Learning Top Models & Python Libraries [***for a Flow State***]()  ˖𓂃🦋ִֶָ
 #### <p align="center">˖  🦋 ˖𓂃 ***A comprehensive guide to essential machine learning models, each with a brief description, example use cases, and links to detailed Jupyter Notebook examples***
 
 
@@ -30,7 +30,7 @@
 
  
 
-<p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷 ִֶָ🌺˳·🌹
+<p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ ˖˳ ZΞΝ˖˖⋆ 🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷 ִֶָ🌺˳·🌹
 
 
 <br><br>
