@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
  #
         
-###   ִֶָ🌺 3. **Decision Trees**
+###   🌺 3. **Decision Trees**
 
    -  **Description**: Splits data into subsets based on the value of input features.
    -  **Advantage**: Easy to visualize and interpret, but can be prone to overfitting.
@@ -123,7 +123,8 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
         #
 
-### ·🎀˳ 6. **k-Nearest Neighbors (k-NN)**
+### 🎀 6. **k-Nearest Neighbors (k-NN)**
+
    -  **Description**: Classifies data based on the majority class among the k-nearest neighbors.
    -  **Note**: Simple and intuitive, but can be computationally intensive.
    -  **Use Cases**: 
@@ -134,7 +135,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 #
 
-### 7. 🦩 **K-Means Clustering**
+### 🦩 7.  **K-Means Clustering**
 
    -  **Description**: Partitions data into k clusters based on feature similarity.
    -  **Applications**: Useful for market segmentation, image compression, and more.
@@ -170,7 +171,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
     
    #
 
-### 🌹˖ 10.  **Gradient Boosting Machines (GBM)**
+### 🌹 10.  **Gradient Boosting Machines (GBM)**
 
    -  **Description**: Combines weak learners to create a strong predictive model.
    -  **Applications**: Used in various applications like ranking, classification, and regression.
@@ -230,14 +231,14 @@ These libraries are fundamental for data visualization. They allow users to crea
 
 <br><br>
 
-## ·🌹 4️. 𝐒𝐜𝐢𝐤𝐢𝐭-𝐥𝐞𝐚𝐫𝐧:
+## 🌹 4️. 𝐒𝐜𝐢𝐤𝐢𝐭-𝐥𝐞𝐚𝐫𝐧:
 
 Ideal for machine learning tasks, Scikit-learn offers a range of algorithms and tools for data modeling, classification, regression, and clustering.
 
 
 <br><br>
 
-## ִֶ 🌺 ִֶ 5️. 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 & 𝐏𝐲𝐓𝐨𝐫𝐜𝐡: 
+##  🌺 ִ 5️. 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 & 𝐏𝐲𝐓𝐨𝐫𝐜𝐡: 
 
 These frameworks are essential for deep learning applications. They provide tools for building and training neural networks, enabling advanced machine learning tasks.
 
