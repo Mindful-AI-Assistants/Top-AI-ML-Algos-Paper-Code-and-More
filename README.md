@@ -8,7 +8,7 @@
  <br><br><br>
 
 
- ### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17" />
+ ### <p align="center"> ❀⋆˚✿𓂃˖˳·˖ <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17" />
 
 
  <br><br>
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/87cacca2-823c-4ab0-af41-b96d17359742
 
 <br><br>
 
-<p align="center">  🍄⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳˳··🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖ ִֶָ🍄⋆˳·🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳· ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˳˖𓂃🦋 ִֶָ
+<p align="center">  🍄⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳˳··🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩 ˖˳ ZΞΝ˖˖ ִֶָ🍄⋆˳·🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˖·⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳· ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˳˖𓂃🦋 ִֶָ
 
 
  <!--
