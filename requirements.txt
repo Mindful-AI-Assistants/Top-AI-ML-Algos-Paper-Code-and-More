@@ -35,10 +35,10 @@ beautifulsoup4==4.14.3
 
 # Database Libraries:
 
-sqlalchemy==2.0.44
+sqlalchemy==2.0.45
 psycopg2-binary==2.9.11
 
-sqlalchemy==2.0.44
+sqlalchemy==2.0.45
 psycopg2-binary==2.9.11
 
 
